@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(141, 240, 11);
+}
+.nav{
+    font-style: italic;
+    font-size: 25px;
+    justify-content: center;
+}
+ul{
+    font-size: 30px;
+    font-style: italic;
+    text-decoration-color: red;
+    text-align: left;
+    text-decoration: underline;
+    word-spacing: 100;
+}
+footer{
+    text-align: center;
+    text-decoration-color: rgb(157, 236, 10);
+    
+}
+header{
+    font-size: 20px;
+    font-family: sans-serif;
+    text-decoration-color: white;
+    text-align: left;
+    p{
+        text-decoration-color: rgb(243, 36, 8);
+        text-align: center;
+        font-style: italic;
+        font-size: 20px;
+    }
+}
